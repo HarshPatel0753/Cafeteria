@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite --force",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@inertiajs/react": "^1.0.16",
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-react": "^4.2.0",
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^2.0.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.22.3",
+        "sweetalert2": "^11.6.13",
+        "vite": "^7.0.6"
+    },
+    "dependencies": {
+        "bootstrap-icons": "^1.11.3",
+        "chart.js": "^4.4.2",
+        "dayjs": "^1.11.11",
+        "lodash": "^4.17.21",
+        "primereact": "^10.7.0",
+        "sass": "1.77.6"
+    }
+}
